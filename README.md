@@ -230,7 +230,7 @@ The evaluation phase is intended to assess:
 ### Clone the Repository
 
 ```bash
-https://github.com/sushantkothari/Hand-Gesture-Recognition-ConvNeXt-Attention.git
+git clone https://github.com/sushantkothari/Hand-Gesture-Recognition-ConvNeXt-Attention.git
 cd Hand-Gesture-Recognition-ConvNeXt-Attention
 ```
 
