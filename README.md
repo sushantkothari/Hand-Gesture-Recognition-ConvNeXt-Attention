@@ -141,7 +141,7 @@ The final model combines a pretrained convolutional backbone with attention-base
 
 ### Architecture Components
 
-* Input layer for 224 × 224 RGB images
+* Input layer for 224 × 224 infrared images
 * Data augmentation layer
 * ConvNeXtTiny backbone with ImageNet weights
 * Channel attention block
@@ -230,8 +230,8 @@ The evaluation phase is intended to assess:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+https://github.com/sushantkothari/Hand-Gesture-Recognition-ConvNeXt-Attention.git
+cd Hand-Gesture-Recognition-ConvNeXt-Attention
 ```
 
 ### Create and Activate a Virtual Environment
