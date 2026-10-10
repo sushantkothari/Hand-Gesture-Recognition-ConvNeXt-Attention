@@ -4,8 +4,6 @@
 
 Hand Gesture Recognition Using ConvNeXt and Attention is a deep learning-based computer vision project designed to classify infrared hand gesture images into 10 gesture categories. The system combines transfer learning with ConvNeXtTiny, attention mechanisms, and a structured TensorFlow input pipeline to improve recognition accuracy, focus on gesture-relevant regions, and maintain reproducible training and evaluation.
 
-The project is built with a practical machine learning workflow suitable for research, academic demonstration, and portfolio presentation. It emphasizes subject-wise evaluation, modular training, and robust performance analysis.
-
 ---
 
 ## Key Highlights
